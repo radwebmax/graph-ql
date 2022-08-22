@@ -1,0 +1,21 @@
+{
+  "name": "graph-ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/app.js"
+  },
+  "author": "Max Radko",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "i": "^0.3.7",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19",
+    "npm": "^8.18.0"
+  }
+}
